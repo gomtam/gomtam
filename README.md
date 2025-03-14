@@ -5,8 +5,9 @@
 3. AI인공지능 분야에 관심이 많습니다.
 
 # Program
-## 2025년 채용연개형SW전문인재양성사업
-[2025 SW인재양성](https://github.com/gomtam/2025_SW_data)
+|2025년 채용연개형SW전문인재양성사업|
+|------|
+|[2025 SW인재양성](https://github.com/gomtam/2025_SW_data)|
 
 
 <br><br>

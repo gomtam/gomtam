@@ -10,7 +10,7 @@
 
 |2025년 채용연개형SW전문인재양성사업|
 |-|
-|[2025 SW인재양성](https://github.com/gomtam/2025_SW_data)|
+|[2025_SW_Program](https://github.com/gomtam/2025_SW_data)|
 
 <h2>Contact Me</h2>
 kimtaemin0203@gmail.com

@@ -1,4 +1,3 @@
-<h1>김태민</h1>
 <img src="https://github.com/gomtam/snow/blob/main/KakaoTalk_20250314_110758253_09.jpg" width="150">
 <h2>Introduction</h2>
 안녕하세요. 나사렛대학교 IT융합학부에 재학 중이며 프로그래밍을 배우고 있는 김태민입니다.<br>

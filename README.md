@@ -1,4 +1,5 @@
 <img src="https://github.com/gomtam/snow/blob/main/KakaoTalk_20250314_110758253_09.jpg" width="150">
+<h1>김태민</h1>
 <h2>Introduction</h2>
 안녕하세요. 나사렛대학교 IT융합학부에 재학 중이며 프로그래밍을 배우고 있는 김태민입니다.<br>
 1. 현재는 우송대학교에서 진행하는 2025년 채용연계형SW전문인재양성사업에 참여 중입니다.<br>

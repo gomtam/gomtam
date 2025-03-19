@@ -13,5 +13,12 @@
 |-|
 |[2025_SW_Program](https://github.com/gomtam/2025_SW_data)|
 
+<h2>Project</h2>
+<h3>2025</h3>
+
+|스마트 TTS 웹캠 (sonavi)|
+|-|
+|[sonavi-pj](https://github.com/gomtam/sonavi-pj)|
+
 <h2>Contact Me</h2>
 kimtaemin0203@gmail.com

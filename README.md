@@ -21,16 +21,16 @@
         <th>학습 내용</th>
     </tr>
     <tr>
-        <td><b>AI & 생성형 AI</b></td>
-        <td><a href="https://github.com/gomtam/2025_SW_Program_AI">ChatGPT</a></td>
+        <td><b><a href="https://github.com/gomtam/2025_SW_Program_AI">AI & 생성형 AI</a></b></td>
+        <td>ChatGPT</td>
     </tr>
     <tr>
-        <td><b>코딩 언어</b></td>
+        <td><b><a href="https://github.com/gomtam/2025_SW_Program_Code-Language">Code-Language</a></b></td>
         <td>Python, C++, Java</td>
     </tr>
     <tr>
-        <td><b>디자인</b></td>
-        <td>UI/UX, 웹 디자인</td>
+        <td><b><a href="https://github.com/gomtam/2025_SW_Program_Design">Design</a></b></td>
+        <td>Photoshop, 웹 디자인</td>
     </tr>
 </table>
 

@@ -11,7 +11,7 @@
 
 |2025년 채용연개형SW전문인재양성사업|
 |-|
-|[2025_SW_Program](https://github.com/gomtam/2025_SW_data)|
+|[2025_SW_Program](https://github.com/gomtam/2025_SW_Program_AI)|
 
 <h2>Project</h2>
 <h3>2025</h3>

@@ -41,12 +41,10 @@
     <tr>
         <th>프로젝트명</th>
         <th>설명</th>
-        <th>링크</th>
     </tr>
     <tr>
-        <td><b>스마트 TTS 웹캠 (sonavi)</b></td>
+        <td><b><a href="https://github.com/gomtam/sonavi-pj">스마트 TTS 웹캠 (sonavi)</a></b></td>
         <td>카메라로 대상을 인식하고 TTS로 안내하는 시스템</td>
-        <td><a href="https://github.com/gomtam/sonavi-pj">sonavi-pj</a></td>
     </tr>
 </table>
 

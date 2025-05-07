@@ -25,7 +25,7 @@
         <td>ChatGPT</td>
     </tr>
     <tr>
-        <td><b><a href="https://github.com/gomtam/2025_SW_Program_Code-Language">Code-Language</a></b></td>
+        <td><b><a href="https://github.com/gomtam/2025_SW_Program_Code-Language">Language</a></b></td>
         <td>Python, C++, Java</td>
     </tr>
     <tr>

@@ -22,15 +22,15 @@
     </tr>
     <tr>
         <td><b><a href="https://github.com/gomtam/2025_SW_Program_AI">AI & 생성형 AI</a></b></td>
-        <td>ChatGPT</td>
+        <td>AI_Program, Robot_SW</td>
     </tr>
     <tr>
         <td><b><a href="https://github.com/gomtam/2025_SW_Program_Code-Language">Language</a></b></td>
         <td>Python, C++, Java</td>
     </tr>
     <tr>
-        <td><b><a href="https://github.com/gomtam/2025_SW_Program_Design">Design</a></b></td>
-        <td>Photoshop, 웹 디자인</td>
+        <td><b><a href="https://github.com/gomtam/2025_SW_Program_Design">Design, UI/UX</a></b></td>
+        <td>Photoshop, html, css</td>
     </tr>
 </table>
 

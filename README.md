@@ -43,7 +43,7 @@
         <th>설명</th>
     </tr>
     <tr>
-        <td><b><a href="">스마트 TTS 웹캠 (sonavi)</a></b></td>
+        <td><b><a href="https://github.com/gomtam/sonavi-pj">스마트 TTS 웹캠 (sonavi-pj)</a></b></td>
         <td>카메라로 대상을 인식하고 TTS로 안내하는 시스템</td>
     </tr>
 </table>

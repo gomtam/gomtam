@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td><b><a href="https://github.com/gomtam/2025_SW_Program_Code-Language">Language</a></b></td>
-        <td>Python, C++, Java</td>
+        <td>Python, C, Java</td>
     </tr>
     <tr>
         <td><b><a href="https://github.com/gomtam/2025_SW_Program_Design">Design, UI/UX</a></b></td>

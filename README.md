@@ -21,7 +21,7 @@
         <th>학습 내용</th>
     </tr>
     <tr>
-        <td><b><a href="https://github.com/gomtam/2025_SW_Program_AI">AI & 생성형 AI</a></b></td>
+        <td><b><a href="https://github.com/gomtam/2025_SW_Program_AI">AI & Robot</a></b></td>
         <td>AI_Program, Robot_SW</td>
     </tr>
     <tr>

@@ -43,8 +43,12 @@
         <th>설명</th>
     </tr>
     <tr>
-        <td><b><a href="https://github.com/gomtam/sonavi-pj">스마트 TTS 웹캠 (sonavi-pj)</a></b></td>
+        <td><b><a href="https://github.com/gomtam/sonavi-pj">스마트 TTS 웹캠 (SoNaVi-PJ)</a></b></td>
         <td>카메라로 대상을 인식하고 TTS로 안내하는 시스템</td>
+    </tr>
+    <tr>
+        <td><b><a href="https://github.com/gomtam/makeModel">객체인식 모델 만들기 (for SoNaVi-PJ)</a></b></td>
+        <td>SoNaVi 프로젝트를 위한 객체인식 모델 만들기</td>
     </tr>
 </table>
 
